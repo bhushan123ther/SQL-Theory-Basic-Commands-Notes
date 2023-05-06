@@ -9,7 +9,9 @@ step 2 : Store data in an sql file we can give any name to this file, but
          
          a) Change dir to your mysql location
          C: -> program files -> MYSQL -> MYSWL Server 8.0 -> bin  copy path till here
-         and pest it on CMD(command prompt not mysql command line client). [enter]
+         and pest it on CMD(command prompt not mysql command line client).  like 
+         C:\Users\ACER>cd C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin [enter]
+         
          Then type
          
          b) mysqldump -u root -p old_database > D:\folder_name\filename.sql   [enter]
