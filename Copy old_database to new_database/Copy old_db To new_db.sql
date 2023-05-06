@@ -1,4 +1,4 @@
--- How to Take back of database
+-- How to Take backup of database
 -- How to copy old_database to new_database
 
 /*
